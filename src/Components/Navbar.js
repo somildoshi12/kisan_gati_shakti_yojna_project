@@ -6,7 +6,7 @@ import img2 from './Images/flag.png';
 export default function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky">
                 <div className="container-fluid ">
                     <Link class="navbar-brand mx-4" to="/">
                         <img src={img2} alt="" width="30" height="24"/>
