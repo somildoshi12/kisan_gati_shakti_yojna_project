@@ -1,0 +1,24 @@
+.homePage{
+    background: url(./Images/cover.jpg) no-repeat center center/cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.home{
+    position: relative;
+    top: 60%;
+    left: 30px;
+    width: 50%;
+    font-size: 1.75vw;
+}
+
+.btn-home{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.btn-home a:hover{
+    text-decoration: none;
+    color: inherit;
+}
