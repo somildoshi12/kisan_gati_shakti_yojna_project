@@ -13,6 +13,7 @@ export default function Harvesting(props) {
                 <div className="bg">
 
                     <h3>{props.heading2}</h3>
+                    <hr />
                     <div className="climate">
                         <p>{props.climate}</p>
                     </div>
@@ -24,6 +25,7 @@ export default function Harvesting(props) {
                     </div>
                     {/* <br /> */}
                     <h3>{props.heading3}</h3>
+                    <hr />
                     <div className="climate">
                         <p>{props.method}</p>
                     </div>

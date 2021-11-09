@@ -5,6 +5,7 @@ import Intro from './Components/Intro';
 import Navbar from './Components/Navbar';
 import Harvesting from './Components/Harvesting';
 import React, { useState } from 'react'
+import './Components/Form.css';
 
 // import img from './Images/andhra.jpg';
 
@@ -14,6 +15,7 @@ import {
   Link,
   Route,
 } from "react-router-dom";
+import About from './Components/About';
 
 function App() {
 
@@ -36,7 +38,7 @@ function App() {
     if (states === '1') {
       setTitle('Andhra Pradesh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle2('Harvesting Methods');
 
@@ -49,7 +51,7 @@ function App() {
     else if (states === '2') {
       setTitle('Arunachal Pradesh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle2('Harvesting Methods');
 
@@ -62,7 +64,7 @@ function App() {
     else if (states === '3') {
       setTitle('Assam');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle2('Harvesting Methods');
 
@@ -75,7 +77,7 @@ function App() {
     else if (states === '4') {
       setTitle('Bihar');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle2('Harvesting Methods');
 
@@ -88,7 +90,7 @@ function App() {
     else if (states === '5') {
       setTitle('Chhattisgarh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -101,7 +103,7 @@ function App() {
     else if (states === '6') {
       setTitle('Delhi');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -114,7 +116,7 @@ function App() {
     else if (states === '7') {
       setTitle('Goa');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -127,7 +129,7 @@ function App() {
     else if (states === '8') {
       setTitle('Gujarat');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -140,7 +142,7 @@ function App() {
     else if (states === '9') {
       setTitle('Haryana');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -153,7 +155,7 @@ function App() {
     else if (states === '10') {
       setTitle('Himachal Pradesh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -166,7 +168,7 @@ function App() {
     else if (states === '11') {
       setTitle('Jammu and Kashmir');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -179,7 +181,7 @@ function App() {
     else if (states === '12') {
       setTitle('Jharkhand');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -192,7 +194,7 @@ function App() {
     else if (states === '13') {
       setTitle('Karnataka');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -205,7 +207,7 @@ function App() {
     else if (states === '14') {
       setTitle('Kerala');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -218,7 +220,7 @@ function App() {
     else if (states === '15') {
       setTitle('Madhya Pradesh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -231,7 +233,7 @@ function App() {
     else if (states === '16') {
       setTitle('Maharashtra');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -244,7 +246,7 @@ function App() {
     else if (states === '17') {
       setTitle('Manipur');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -257,7 +259,7 @@ function App() {
     else if (states === '18') {
       setTitle('Meghalaya');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -270,7 +272,7 @@ function App() {
     else if (states === '19') {
       setTitle('Mizoram');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -283,7 +285,7 @@ function App() {
     else if (states === '20') {
       setTitle('Nagaland');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -296,7 +298,7 @@ function App() {
     else if (states === '21') {
       setTitle('Odisha');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -309,7 +311,7 @@ function App() {
     else if (states === '22') {
       setTitle('Punjab');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -322,7 +324,7 @@ function App() {
     else if (states === '23') {
       setTitle('Rajasthan');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -335,7 +337,7 @@ function App() {
     else if (states === '24') {
       setTitle('Sikkim');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -348,7 +350,7 @@ function App() {
     else if (states === '25') {
       setTitle('Tamil Nadu');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -361,7 +363,7 @@ function App() {
     else if (states === '26') {
       setTitle('Telangana');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -374,7 +376,7 @@ function App() {
     else if (states === '27') {
       setTitle('Tripura');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -387,7 +389,7 @@ function App() {
     else if (states === '28') {
       setTitle('Uttar Pradesh');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -400,7 +402,7 @@ function App() {
     else if (states === '29') {
       setTitle('Uttarakhand');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -413,7 +415,7 @@ function App() {
     else if (states === '30') {
       setTitle('West Bengal');
 
-      setTitle2('Climatic conition');
+      setTitle2('Climatic Condition');
 
       setTitle3('Harvesting Methods');
 
@@ -486,8 +488,8 @@ function App() {
                     <label htmlFor="floatingInput">Enter your name</label>
                   </div>
                   <div className="form-floating">
-                    <input type="password" className="form-control" id="floatingPassword" placeholder="Password" />
-                    <label htmlFor="floatingPassword">Password</label>
+                    <input type="text" className="form-control" id="floatingInput" placeholder="Name" />
+                    <label htmlFor="floatingInput">Enter your mobile number</label>
                   </div>
                   <select class="form-select my-3" aria-label="Default select example" onChange={handleDropDown}>
                     <option selected> --- Select your State -- </option>
@@ -556,7 +558,7 @@ function App() {
             <Route exact path="/home">
               <Homepage />
             </Route>
-            <Route exact path="/form">
+            <Route exact path="/">
               {/* <Form /> */}
             </Route>
 
@@ -569,6 +571,7 @@ function App() {
           </Switch>
 
         </div>
+        <About/>
       </Router>
     </div>
   );
