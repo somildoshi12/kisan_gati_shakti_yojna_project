@@ -133,11 +133,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('The plains of Gujarat are very hot and dry in summer and cold and dry in winter. Water availability and soil suitability are the primary requirements for stable agricultural production. Due to erratic rainfall and lack of irrigation for agriculture, arid regions suffer from volatile conditions for agriculture. ');
+      setClimate('The plains of Gujarat are very hot and dry in summer and cold and dry in winter. Water availability and soil suitability are the primary requirements for stable agricultural production. Due to erratic rainfall and lack of irrigation for agriculture, arid regions suffer from volatile conditions for agriculture. Gujarat experiences an average rainfall of around 33 to152cms. The southern parts of the state receive average rainfall hovering between 76 and 152 cms, the Dangs district having the highest average of around 190 cms. In the northern parts of Gujarat, average rainfall ranges between 51 to 102 cms. The southern highlands of Saurashtra and the Gulf of Cambay receives about 63 cms of rainfall, while other parts of Saurashtra receive rainfall less than 63 cms. The semi-desert Kutch area in Gujarat experiences a very low average rainfall. Some areas in Ahmedabad, Mehsana, Banaskantha, Panchmahals, Surendranagar, Jamnagar and Kutch districts face chronic shortage of water because of inadequate rains. These factors account for the wide diversity in the climate of Gujarat.');
 
       setPic('');
 
-      setMethod('Because of the high salinity of soil in arid regions of Gujarat and other states creates an impermeable layer that prevents rain water from seeping in, rainwater harvesting is the most suitable in these regions. This leads to water logging and the standing water again increases the salinity of the soil. Hence, Bhungroo (meaning "straw" in Gujarati) is an innovative water harvesting technique for irrigation introduced by Indian women farmers. It frees excess water from flood prone and waterlogged farmland by drawing all the excess water underground and making land accessible for farming. The main advantage of this technique is that the water stored during rainy season in unsaturated layers of soils can be pumped for farming in dry season, hence farmers can have dual season farming.');
+      setMethod('Because of the high salinity of soil in arid regions of Gujarat and other states creates an impermeable layer that prevents rain water from seeping in, rainwater harvesting is the most suitable in these regions. This leads to water logging and the standing water again increases the salinity of the soil. Hence, Bhungroo (meaning "straw" in Gujarati) is an innovative water harvesting technique for irrigation introduced by Indian women farmers. It frees excess water from flood prone and waterlogged farmland by drawing all the excess water underground and making land accessible for farming. The main advantage of this technique is that the water stored during rainy season in unsaturated layers of soils can be pumped for farming in dry season, hence farmers can have dual season farming. The team drills a pipe with a diameter of five inches, which then guides the water to the subsoil aquifer at a depth of 110 feet. The aquifer is an underground layer of permeable rocks or materials like gravel, sand or silt that can contain or transmit groundwater. Once the water is saved, the atmospheric moisture in the soil helps in the growth of crops for the next month. And the stored water helps whenever required during the rest of the year.');
     }
     else if (states === '9') {
       setTitle('Haryana');
@@ -163,7 +163,7 @@ function App() {
 
       setPic('');
 
-      setMethod('');
+      setMethod('Kuls are water channels found in precipitous mountain areas. These channels carry water from glaciers to villages in the Spiti valley of Himachal Pradesh. Where the terrain is muddy, the kul is lined with rocks to keep it from becoming clogged. In the Jammu region too, similar irrigation systems called kuhls are found. Naula is a surface-water harvesting method typical to the hill areas of Uttaranchal. These are small wells or ponds in which water is collected by making a stone wall across a stream. Khatris are structures, about 10x12 feet in size and six feet deep carved out in the hard rock mountain. The specially trained masons construct them at a cost of Rs 10,000-20,000 each. These traditional water harvesting structures are found in Hamirpur, Kangra and Mandi districts of Himachal Pradesh.');
     }
     else if (states === '11') {
       setTitle('Jammu and Kashmir');
@@ -185,11 +185,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Climate of Jharkhand varies from Humid subtropical in the north to tropical wet and dry in the south-east. The main seasons are summer, rainy, autumn, winter and spring. The summer lasts from mid-April to mid-June. ... The winter season lasts from November to February.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('A method known as ‘rooftop harvesting’ — in which rain water is collected in tanks — is used. This water can be used for direct consumption and for recharging groundwater through simple filtration devices. Water from natural sources such as springs is usually clear. It also has health benefits as minerals get dissolved in water and moves through underground rocks. Springs containing significant amount of minerals are sometime known as ‘mineral springs’.Rain water harvesting is one of the most effective methods of water management and water conservation. As rainfall is usually unevenly distributed throughout the year, rain water collection methods serve as the only supplementary sources of household water.');
     }
     else if (states === '13') {
       setTitle('Karnataka');
@@ -198,11 +198,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Karnataka witnesses three types of climate. The state has a dynamic and erratic weather that changes from place to place within its territory. Due to its varying geographic and physio-graphic conditions, Karnataka experiences climatic variations that range from arid to semi-arid in the plateau region, sub-humid to humid tropical in the Western Ghats and humid tropical monsoon in the coastal plains.More than 75 percent of the entire geographical area of Karnataka, including interior Karnataka, witnesses arid or semi-arid climate. Karnataka has about 15 percent of the total semi-arid or 3 percent of the total arid areas marked in India.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Madakas are one of the fast disappearing traditional rainwater harvesting structures found in the laterite belts of Karnataka and Kerala. They are naturally occuring depressions with high terrain on the three sides where water from the surrounding laterite slopes, mainly runoff from the rains, is accumulated. These have been traditionally used to harvest rainwater by constructing bunds on the open fourth side of the depression to check this runoff from the slopes.A glimpse of the beautiful village of Padre located in Kasargod district makes it very difficult to believe that this is the place where the endosulphan tragedy continues to leave its imprints on the people in the area. We have come to visit Shree Padreji, better known as the rain water man for his pioneering work on farm journalism and documentation of traditional water harvesting methods for water conservation, who continues to live in the village and works on sensitising the communities on the issues very close to the heart of the farmers such as water conservation through revival of traditional water harvesting methods, documenting and sharing old and new methods and success stories by farmers on water harvesting and developing and propagating agricultural products for markets such as jackfruit. Besides this, he continues to direct attention and sensitise communities from Kerala and Karnataka on the endosulphan issue');
     }
     else if (states === '14') {
       setTitle('Kerala');
@@ -237,11 +237,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Maharashtra State is situated north of 14oN and south of 22o N. It is bounded by Arabian Sea on its western side. Located in the north centre of peninsular India, the state of Gujarat lies north of it, while Madhya Pradesh and Chhattisgarh lie on the northern and eastern sides of Maharashtra respectively. The climate of Maharashtra is tropical monsoons as it receives a heavy rainfall during the monsoon season with the summers being hot and winters being chilly. There are four meteorological subdivisions, viz. Konkan, Madhya Maharashtra, Marathwada and Vidarbha in the state.Monsoon Annual rainfall of more than 100 cms is confined to the coastal belt and the adjoining Ghats region covering the districts of Thane, Raigad, Ratnagiri, Sindhudurg and the western hilly parts of Pune, Satara and Kolhapur districts. The coastal region experiences very small annual range of temperature, not exceeding 5oC. The mean daily temperature is above 22oC throughout the year Dry Climate: This type covers the semi-arid portions of Jalgaon, Nashik, Aurangabad, Pune, Beed, Satara, Osmanabad and Kolhapur and almost the whole of Dhule, Nandurbar, Ahmednagar, Solapur and Sangli districts. Mean daily temperature is between 18oC and 22oC during winter and above 22oC during remaining months. Tropical Rainy: Parts of Nashik, Jalgaon districts, eastern portions of Aurangabad, Jalna, Beed and Osmanabad, as well as the remaining districts of Marathwada viz. Hingoli, Latur, Parbhani and Nanded and entire Vidarbha have tropical rainy climate. The precipitation is confined to the monsoon season and is above 70 cms. ');
 
       setPic('');
 
-      setMethod('');
+      setMethod('The community-managed phad irrigation system, prevalent in northwestern Maharashtra, probably came into existence some 300-400 years ago. The system operated on three rivers in the Tapi basin - Panjhra, Mosam and Aram - in Dhule and Nasik districts (still in use in some places here). The system starts with a bandhara (check dam or diversion-weir) built across a rivers. From the bandharas branch out kalvas (canals) to carry water into the fields. The length of these canals varies from 2-12 km. Each canal has a uniform discharge capacity of about 450 litres/second. Charis (distributaries) are built for feeding water from the kalva to different areas of the phad. Sarangs (field channels) carry water to individual fields. Sandams (escapes), along with kalvas and charis, drain away excess water. In this way water reaches the kayam baghayat (agricultural command area), usually divided into four phads (blocks). These are check dams or diversion weirs built across rivers. A traditional system found in Maharashtra, their presence raises the water level of the rivers so that it begins to flow into channels. They are also used to impound water and form a large reservoir.Where a bandhara was built across a small stream, the water supply would usually last for a few months after the rains.They are built either by villagers or by private persons who received rent-free land in return for their public actMost Bandharas are defunct today. A very few are still in use. The Kohlis, a small group of cultivators, built some 43,381 water tanks in the district of Bhandara, Maharashtra, some 250-300 years ago. These tanks constituted the backbone of irrigation in the area until the government took them over in the 1950s. It is still crucial for sugar and rice irrigation. The tanks were of all sizes, often with provisions to bring water literally to the doorstep of villagers.Cheruvu are found in Chitoor and Cuddapah districts in Andhra Pradesh. They are reservoirs to store runoff. Cheruvu embankments are fitted with thoomu (sluices), alugu or marva or kalju (flood weir) and kalava (canal).');
     }
     else if (states === '17') {
       setTitle('Manipur');
@@ -250,7 +250,7 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Lying very close to the Tropics, North-East India displays, to a large extent, the character of tropical climate, especially in the valleys. The region has a monsoon climate with heavy to very heavy rains, confined within four summer months from June to September. The southwest monsoon is the main source of rain, and June is the rainiest month. There are three seasons in the area, winter, summer and rainy season, though rainy season, as in the rest of India, coincides with summer months. There is a climatic contrast between the valleys and the mountainous region. While the mean January temperature in the valley region of Assam is around 16 °C, the temperatures in the mountainous region of Arunachal Pradesh and Nagaland hover around a maximum of 14 °C and a sub-zero minimum temperature. The summer temperatures in the plains vary between 30 and 33 °C, while the hills have a mean summer temperature of around 20 °C with a mean minimum of 15 °C. Nowhere in the region, there is heavy snow except in the higher parts of Arunachal Pradesh, like west Kameng and Tawang areas. No part of North-East India receives rainfall below 1,000 mm. Shillong plateau with its southern limit marked by a 1,200-m-high scarp overlooking the Bangladesh plain receives very heavy rains. Cherrapunji, situated on the top of the scarp, receives a mean annual rainfall of 11,465 mm. The average rainfall of Brahmaputra valley is around 2,000 mm with local variations. Guwahati, being in the rain shadow of the Meghalaya plateau, receives only 1,717 mm of rain. About 90 % of the rain is received during the southwest summer monsoon, and June is by far the rainiest month. The hilly areas of the region receive 2,000–3,000 mm of rain, though places like Kohima in Nagaland and Imphal in Manipur, because of their being in the shadow of the mountains, receive less than 2,000 mm of rains.');
 
       setPic('');
 
@@ -267,7 +267,7 @@ function App() {
 
       setPic('');
 
-      setMethod('');
+      setMethod('In Mizoram, Meghalaya, Nagaland and Tripura, people store and harvest rain water through traditional means.A method known as ‘rooftop harvesting’ — in which rain water is collected in tanks — is used.This water can be used for direct consumption and for recharging groundwater through simple filtration devices.This stored water is used for drinking, gardening, irrigation and many other purposes.Rain water harvesting is one of the most effective methods of water management and water conservation.As rainfall is usually unevenly distributed throughout the year, rain water collection methods serve as the only supplementary sources of household water.It is also one of the most promising alternatives for supplying freshwater in the face of increasing water scarcity and escalating demand in rural and urban areas.It is a sustainable form of utilisation of water without endangering the survival of future generations.In states like Meghalaya, stream and spring water flows through bamboo pipes.They are used to divert perennial springs on hilltops to lower reaches.This system is used by tribal farmers in Meghalaya’s Khasi and Jaintia hills to drip - irrigate their cultivation.Rooftop rain water harvesting is the most common practice in state capital Shillong.The Meghalaya government’s focus lies on rain water harvesting as there is a shortage of potable water in the state.');
     }
     else if (states === '19') {
       setTitle('Mizoram');
@@ -276,11 +276,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Lying very close to the Tropics, North-East India displays, to a large extent, the character of tropical climate, especially in the valleys. The region has a monsoon climate with heavy to very heavy rains, confined within four summer months from June to September. The southwest monsoon is the main source of rain, and June is the rainiest month. There are three seasons in the area, winter, summer and rainy season, though rainy season, as in the rest of India, coincides with summer months. There is a climatic contrast between the valleys and the mountainous region. While the mean January temperature in the valley region of Assam is around 16 °C, the temperatures in the mountainous region of Arunachal Pradesh and Nagaland hover around a maximum of 14 °C and a sub-zero minimum temperature. The summer temperatures in the plains vary between 30 and 33 °C, while the hills have a mean summer temperature of around 20 °C with a mean minimum of 15 °C. Nowhere in the region, there is heavy snow except in the higher parts of Arunachal Pradesh, like west Kameng and Tawang areas. No part of North-East India receives rainfall below 1,000 mm. Shillong plateau with its southern limit marked by a 1,200-m-high scarp overlooking the Bangladesh plain receives very heavy rains. Cherrapunji, situated on the top of the scarp, receives a mean annual rainfall of 11,465 mm. The average rainfall of Brahmaputra valley is around 2,000 mm with local variations. Guwahati, being in the rain shadow of the Meghalaya plateau, receives only 1,717 mm of rain. About 90 % of the rain is received during the southwest summer monsoon, and June is by far the rainiest month. The hilly areas of the region receive 2,000–3,000 mm of rain, though places like Kohima in Nagaland and Imphal in Manipur, because of their being in the shadow of the mountains, receive less than 2,000 mm of rains.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('In Mizoram, Meghalaya, Nagaland and Tripura, people store and harvest rain water through traditional means.A method known as ‘rooftop harvesting’ — in which rain water is collected in tanks — is used.This water can be used for direct consumption and for recharging groundwater through simple filtration devices.This stored water is used for drinking, gardening, irrigation and many other purposes.Rain water harvesting is one of the most effective methods of water management and water conservation.As rainfall is usually unevenly distributed throughout the year, rain water collection methods serve as the only supplementary sources of household water.It is also one of the most promising alternatives for supplying freshwater in the face of increasing water scarcity and escalating demand in rural and urban areas.It is a sustainable form of utilisation of water without endangering the survival of future generations.In states like Meghalaya, stream and spring water flows through bamboo pipes.They are used to divert perennial springs on hilltops to lower reaches.This system is used by tribal farmers in Meghalaya’s Khasi and Jaintia hills to drip - irrigate their cultivation.Rooftop rain water harvesting is the most common practice in state capital Shillong.The Meghalaya government’s focus lies on rain water harvesting as there is a shortage of potable water in the state.');
     }
     else if (states === '20') {
       setTitle('Nagaland');
@@ -289,11 +289,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('Lying very close to the Tropics, North-East India displays, to a large extent, the character of tropical climate, especially in the valleys. The region has a monsoon climate with heavy to very heavy rains, confined within four summer months from June to September. The southwest monsoon is the main source of rain, and June is the rainiest month. There are three seasons in the area, winter, summer and rainy season, though rainy season, as in the rest of India, coincides with summer months. There is a climatic contrast between the valleys and the mountainous region. While the mean January temperature in the valley region of Assam is around 16 °C, the temperatures in the mountainous region of Arunachal Pradesh and Nagaland hover around a maximum of 14 °C and a sub-zero minimum temperature. The summer temperatures in the plains vary between 30 and 33 °C, while the hills have a mean summer temperature of around 20 °C with a mean minimum of 15 °C. Nowhere in the region, there is heavy snow except in the higher parts of Arunachal Pradesh, like west Kameng and Tawang areas. No part of North-East India receives rainfall below 1,000 mm. Shillong plateau with its southern limit marked by a 1,200-m-high scarp overlooking the Bangladesh plain receives very heavy rains. Cherrapunji, situated on the top of the scarp, receives a mean annual rainfall of 11,465 mm. The average rainfall of Brahmaputra valley is around 2,000 mm with local variations. Guwahati, being in the rain shadow of the Meghalaya plateau, receives only 1,717 mm of rain. About 90 % of the rain is received during the southwest summer monsoon, and June is by far the rainiest month. The hilly areas of the region receive 2,000–3,000 mm of rain, though places like Kohima in Nagaland and Imphal in Manipur, because of their being in the shadow of the mountains, receive less than 2,000 mm of rains.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('In Mizoram, Meghalaya, Nagaland and Tripura, people store and harvest rain water through traditional means.A method known as ‘rooftop harvesting’ — in which rain water is collected in tanks — is used.This water can be used for direct consumption and for recharging groundwater through simple filtration devices.This stored water is used for drinking, gardening, irrigation and many other purposes.Rain water harvesting is one of the most effective methods of water management and water conservation.As rainfall is usually unevenly distributed throughout the year, rain water collection methods serve as the only supplementary sources of household water.It is also one of the most promising alternatives for supplying freshwater in the face of increasing water scarcity and escalating demand in rural and urban areas.It is a sustainable form of utilisation of water without endangering the survival of future generations.In states like Meghalaya, stream and spring water flows through bamboo pipes.They are used to divert perennial springs on hilltops to lower reaches.This system is used by tribal farmers in Meghalaya’s Khasi and Jaintia hills to drip - irrigate their cultivation.Rooftop rain water harvesting is the most common practice in state capital Shillong.The Meghalaya government’s focus lies on rain water harvesting as there is a shortage of potable water in the state.');
     }
     else if (states === '21') {
       setTitle('Odisha');
@@ -302,11 +302,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('The state has tropical climate, characterized by high temperature, high humidity, medium to high rainfall and short and mild winters. As per Koppen’s climatic classifications most part of Odisha comes under the AW having a tropical Savannah type of climate. The south-west monsoon normally sets in between 5th June and 10th June in the coastal plain, and by 1st July the whole of the state is under the full sway of the south-west monsoons. By 15th October, the south-west monsoon withdraws completely from Odisha. These are the normal dates which fluctuate from year to year. As per “Thornthwaite’s classification”, Odisha comes under the “Sub humid” category, implying deficient winter rains.On the basis of climate type, Orissa has been divided into ten agro-climatic zone. The normal rainfall of the state is 1451.2 mm. About 75% to 80% of rainfall is received from June to September. Floods, droughts and cyclones occur almost every year varying intensity.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('As Odisha’s agricultural fields starve for water due to drought conditions this year, Majhi never had a problem watering his crop in Kharamal village in Bargarh district’s parched Paikmal block, more than 500 km from Bhubaneswar.Equipped with chahala – a small traditional water harvesting structure – and a vermi-compost pit the three-acre farm, on which he cultivates rice and several varieties of vegetables, has never failed Majhi, even during drought. The marginal farmer sells vegetables worth Rs. 2,000 every week in the nearby market – all this without any investment in chemical fertiliser and pesticide.Kharamal, at the foothill of Gandhamardan Hill, has about 100 families, mostly tribals. Till a decade back, like Majhi most of the villagers used to migrate to brick kilns in Andhra Pradesh and farmlands in Haryana after successive droughts over three decades degraded the land, making agriculture a futile exercise.');
     }
     else if (states === '22') {
       setTitle('Punjab');
@@ -341,11 +341,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('In Sikkim people store and harvest rain water through traditional means.A method known as ‘rooftop harvesting’ — in which rain water is collected in tanks — is used.This water can be used for direct consumption and for recharging groundwater through simple filtration devices.This stored water is used for drinking, gardening, irrigation and many other purposes.Rain water harvesting is one of the most effective methods of water management and water conservation.As rainfall is usually unevenly distributed throughout the year, rain water collection methods serve as the only supplementary sources of household water.It is also one of the most promising alternatives for supplying freshwater in the face of increasing water scarcity and escalating demand in rural and urban areas.It is a sustainable form of utilisation of water without endangering the survival of future generations.In states like Meghalaya, stream and spring water flows through bamboo pipes.They are used to divert perennial springs on hilltops to lower reaches.This system is used by tribal farmers in Meghalaya’s Khasi and Jaintia hills to drip - irrigate their cultivation.Rooftop rain water harvesting is the most common practice in state capital Shillong.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Farm mechanization in Sikkim is almost nonexistent. Tractor density in Sikkim is 0.11 against per 1000 ha of agricultural land. The power availability is also very low. The scope for use of power tillers is limited to a few pockets. The large sized bullock drawn equipments like 3- row seed drills also cannot be effectively used due to narrow and tapering terraces and the weight factor. The land preparation to harvesting is normally done manually with traditional methods. The topography also doesn’t allow for construction of large irrigation channels and for use of large harvesting machinery. The farming in Sikkim is mostly done on subsistence level. Nearly one third of the cultivation is of the shifting (jhum) type. Canal irrigation is quite low at around 12–13%. Rice is the staple food and occupies 81% of the total area under cereals followed by maize (12.8%). Since, most of the farm operations in Sikkim are done manually, there is great scope of selective mechanizing where, small hand tools are being used resulting in human drudgery. For land preparation, small power driving machines, serrated improved sickles for harvesting and tubular maize sheller and rotary maize sheller for shelling corn may be introduced. Some gender friendly tools developed may be popularized among the farmers of Sikkim. Such as Pedal operated thresher, hand hoe, push-pull weeder, wheel hand hoe, manual dibblers, paddy weeder, improved knapsack sprayers etc.');
     }
     else if (states === '25') {
       setTitle('Tamil Nadu');
@@ -354,11 +354,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('A tropical wet and dry climate, drier than areas with a tropical monsoon climate, prevails over most of the inland peninsular region except for a semi-arid rain shadow east of the Western Ghats. Winter and early summer are long dry periods with temperatures averaging above 18 °C (64 °F); summer is exceedingly hot with temperatures in low-lying areas exceeding 50 °C (122 °F); and the rainy season lasts from June to September, with annual rainfall averaging between 750 and 1,500 mm (30 and 59 in) across the region. Once the dry northeast monsoon begins in September, most precipitation in India falls in Tamil Nadu, leaving other states comparatively dry. A hot semi-arid climate predominates in the land east of the Western Ghats and the Cardamom Hills. The region – which includes Karnataka, inland Tamil Nadu and western Andhra Pradesh – gets between 400 and 750 millimetres (15.7 and 29.5 in) of rainfall annually, with hot summers and dry winters with temperatures around 20–24 °C (68–75 °F). The months between March and May are hot and dry, with mean monthly temperatures hovering around 32 °C (90 °F), with 320 millimetres (13 in) precipitation. Without artificial irrigation, this region is not suitable for agriculture.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Rainwater harvesting, the small-scale collection and storage of runoff for irrigated agriculture, is recognized as a sustainable strategy for ensuring food security, especially in monsoonal landscapes in the developing world. In south India, these strategies have been used for millennia to mitigate problems of water scarcity. However, in the past 100 years many traditional rainwater harvesting systems have fallen into disrepair due to increasing dependence on groundwater. With elevated declines in groundwater resources, there is increased effort at the state and national levels to revive older systems. Critical to the success of such efforts is an improved understanding of how these ancient water-provisioning systems function in contemporary landscapes with extensive groundwater pumping and shifted climatic regimes. Knowledge is especially lacking regarding the water-exchange dynamics of these rainwater harvesting "tanks" at tank and catchment scales, and how these exchanges regulate tank performance and catchment water balances.Here, we use fine-scale water level variations to quantify daily fluxes of groundwater, evapotranspiration, and sluice outflows in four tanks over the 2013 northeast monsoon season in a tank cascade that covers a catchment area of 28.2 km2. Our results indicate a distinct spatial pattern in groundwater-exchange dynamics, with the frequency and magnitude of groundwater inflow events (as opposed to outflow) increasing down the cascade of tanks.');
     }
     else if (states === '26') {
       setTitle('Telangana');
@@ -367,11 +367,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('A tropical wet and dry climate, drier than areas with a tropical monsoon climate, prevails over most of the inland peninsular region except for a semi-arid rain shadow east of the Western Ghats. Winter and early summer are long dry periods with temperatures averaging above 18 °C (64 °F); summer is exceedingly hot with temperatures in low-lying areas exceeding 50 °C (122 °F); and the rainy season lasts from June to September, with annual rainfall averaging between 750 and 1,500 mm (30 and 59 in) across the region. Once the dry northeast monsoon begins in September, most precipitation in India falls in Tamil Nadu, leaving other states comparatively dry. A hot semi-arid climate predominates in the land east of the Western Ghats and the Cardamom Hills. The region – which includes Karnataka, inland Tamil Nadu and western Andhra Pradesh – gets between 400 and 750 millimetres (15.7 and 29.5 in) of rainfall annually, with hot summers and dry winters with temperatures around 20–24 °C (68–75 °F). The months between March and May are hot and dry, with mean monthly temperatures hovering around 32 °C (90 °F), with 320 millimetres (13 in) precipitation. Without artificial irrigation, this region is not suitable for agriculture.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Rainwater harvesting, the small-scale collection and storage of runoff for irrigated agriculture, is recognized as a sustainable strategy for ensuring food security, especially in monsoonal landscapes in the developing world. In south India, these strategies have been used for millennia to mitigate problems of water scarcity. However, in the past 100 years many traditional rainwater harvesting systems have fallen into disrepair due to increasing dependence on groundwater. With elevated declines in groundwater resources, there is increased effort at the state and national levels to revive older systems. Critical to the success of such efforts is an improved understanding of how these ancient water-provisioning systems function in contemporary landscapes with extensive groundwater pumping and shifted climatic regimes. Knowledge is especially lacking regarding the water-exchange dynamics of these rainwater harvesting "tanks" at tank and catchment scales, and how these exchanges regulate tank performance and catchment water balances.Here, we use fine-scale water level variations to quantify daily fluxes of groundwater, evapotranspiration, and sluice outflows in four tanks over the 2013 northeast monsoon season in a tank cascade that covers a catchment area of 28.2 km2. Our results indicate a distinct spatial pattern in groundwater-exchange dynamics, with the frequency and magnitude of groundwater inflow events (as opposed to outflow) increasing down the cascade of tanks.');
     }
     else if (states === '27') {
       setTitle('Tripura');
@@ -380,11 +380,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('The climate of Tripura exhibits a strong seasonal rhythm. The state is characterised by a warm and humid tropical climate with five distinct seasons, namely, spring, summer, monsoon, autumn and winter.Spring starts from late mid-February & continues till midMarch. Winter returns if there is rain a fresh in mid-February. Summer season starts from middle of March and reaches its peak in April - May. Pre-monsoon rain is always experienced after Jhum harvesting in the hills in March-April. Occasionally there is hardly any gap between pre-monsoon and monsoon rain. The recorded maximum temperature is 35.60°c. The monsoon generally breaks in the later part of May or first week of June and lasts till September. Winter sets in from November and is severe in the month of January when minimum temperature recorded is 4ºc in January 1995.Humidity is generally high throughout the year. In the summer season the relative humidity is varied from 50 percent to 74 percent whereas in the rainy season it is over 85 percent.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('The State of Tripura is mainly hilly and extensively covered with forest during the erstwhile Maharaja’s time and ‘Jhum’ popularly known as Shifting cultivation, was practiced in the hilly-areas as the only form of agriculture. The plough cultivation was probably introduced in Tripura during 15th century A.D. when the plain land cultivators from adjoining districts of Bengal came to this State. The Jhumias coming in contacts with immigrants learnt the benefits of plough cultivation and became interested in owning land for cultivation. This was evident from a step taken by the then Maharaja of this State in 1913 T.E. (1930 A.D.) that he kept 28,490 hectares in Khowai Sub-Division called “Kalyanpur Reserve” for settlement of Jhumias. Subsequently the reserved areas for The Princely State acceded to the Indian union on 15th October, 1949 as a Union territory and attained statehood in the year 1972. Before attaining Statehood the developmental activities of Agriculture, Animal Husbandry, and Fisheries were being looked after by a small setup headed by one Superintendent. A Director of Agriculture was appointed for the first time in 1950. He was assisted by a group of Officers of Agriculture and allied disciplines. In the year 1959, Department of Animal Husbandry was carved out from the Department of Agriculture with its own setup.');
     }
     else if (states === '28') {
       setTitle('Uttar Pradesh');
@@ -393,11 +393,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('The extreme temperatures vary from 0 to 46 °C. High temperatures, approximating 50 °C have been recorded in Gonda district. A such wide range of temperature fluctuations in most parts of the state can lead to either cold or heat waves, both resulting in substantial loss of lifes and economy. Primarily a summer phenomenon, the Bay of Bengal branch of the Indian Monsoon brings the most monsoonal rainfall in Uttar Pradesh. Uttar Pradesh is affected primarily from the southwest monsoon. Western disturbances and North-East Monsoon also contribute small quantities towards the overall rainfall of the state. The rain in Uttar Pradesh can vary from an annual average of 1.700 mm in hilly areas to 840 mm in Uttar Pradesh. As a direct result of the monsoonal rainfall, excess rain can lead to floods and shortage to droughts. As such, these two phenomenons of floods and droughts are common in the state.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Northeastern India’s hilly areas have always suffered scarcity of drinking water, as there is little water retention. Rain water run-off is rapid and many springs and streams drying up when during dry seasons.Northeastern states with large tribal populations living in scattered rural settlements have been dependent on natural water sources for a long time.Water from natural sources such as springs is usually clear. It also has health benefits as minerals get dissolved in water and moves through underground rocks. Springs containing significant amount of minerals are sometime known as ‘mineral springs’.Women in these areas face significant challenges as they are forced to move downwards from hilly areas in search of fresh water.');
     }
     else if (states === '29') {
       setTitle('Uttarakhand');
@@ -406,11 +406,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('The climate of Uttarakhand is temperate, marked by seasonal variations in temperature but also affected by tropical monsoons. January is the coldest month, with daily high temperatures averaging below freezing in the north and near 70 °F (21 °C) in the southeast. In the north, July is the hottest month, with temperatures typically rising from the mid-40s F (about 7 °C) to about 70 °F daily. In the southeast, May is the warmest month, with daily temperatures normally reaching the low 100s F (about 38 °C) from a low around 80 °F (27 °C). Most of the state’s roughly 60 inches (1,500 mm) of annual precipitation is brought by the southwest monsoon, which blows from July through September. Floods and landslides are problems during the rainy season in the lower stretches of the valleys. In the northern parts of the state, 10 to 15 feet (3 to 5 metres) of snowfall is common between December and March.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('A Naula is a naturally-occurring water aquifer. It is a stone-lined tank which catches dripping water from springs and streams. It looks like a temple from outside and is equally regarded as such. Naula and Dhara have been considered as sacred in Uttarakhand’s tradition and culture. Sculptures of Lord Vishnu or any local deity are usually carved onto the walls of the Naula or Dhara to declare it a sacred site and prevent it from being polluted. The entrance of the Naula was always made small. This was done to prevent animals from entering it and to ensure that only one person entered it at a time. On the other hand, Dharas are mostly protected by constructing boundary walls.Water is considered so sacred that both, the Dhara/Naula and Kalashvivah (‘urn marriage’) are still socially recognised. According to the Kalashvivah, when the groom was absent due to some reason, the bride was formally married to an urn of water and it was considered by then that both the absent groom and the bride are married thereafter.');
     }
     else if (states === '30') {
       setTitle('West Bengal');
@@ -419,11 +419,11 @@ function App() {
 
       setTitle3('Harvesting Methods');
 
-      setClimate('');
+      setClimate('The climate of West Bengal experiences great variation, mainly in accordance with the topography and location of the area being referred to. For instance, while south Bengal experiences tropical savannah climate, the north witnesses humid subtropical weather conditions. The seasons here can broadly be divided into five main categories: spring, summer, rainy season, autumn, and winter. The autumn here is comparatively shorter than other parts of India, lasting only from beginning of October to the middle of November. Let us explore more information on the weather and climate of West Bengal.');
 
       setPic('');
 
-      setMethod('');
+      setMethod('Bankura District, West Bengal receives 1100-1400 mm of rainwater per year. Much of the terrain is undulating with the result that there is rapid run-o! and soil moisture content is low. The majority of the population, many of whom are from scheduled castes (SCs) and scheduled tribes (STs), rely on rainfed agriculture. They are only able to cultivate in the rainy season (kharif). Popular crops are paddy and vegetables. Harvesting rainwater and making it available in the dry season could have major implications for agriculture and livelihoods. It will enable farmers to grow another crop in the winter (rabi) season. Four years ago, a program was set up to install “hapas” on farmers’ land. Funded by the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), these hapas were designed to cover 5% of the land and to provide supplementary irrigation to paddy in the kharif season and use the residual water left in these structures to grow an additional rabi crop. ');
     }
 
   }
@@ -571,7 +571,7 @@ function App() {
           </Switch>
 
         </div>
-        <About/>
+        <About />
       </Router>
     </div>
   );

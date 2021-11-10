@@ -25,7 +25,7 @@ export default function Navbar() {
                         </ul>
                         <form className="d-flex">
 
-                            <button class="btn btn-outline-success" type="submit">Search</button>
+                            <button class="btn btn-outline-success" type="submit">Feedback</button>
                         </form>
                     </div>
                 </div>

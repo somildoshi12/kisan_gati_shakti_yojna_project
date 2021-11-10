@@ -46,6 +46,7 @@ h1{
     margin: 6vw;
     border: 2px solid white;
     border-radius: 50px;
+    position: inherit;
 }
 
 .bg{
