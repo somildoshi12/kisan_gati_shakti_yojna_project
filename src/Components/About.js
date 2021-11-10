@@ -32,7 +32,7 @@ export default function About() {
                 </div>
             </div>
             <div className="footer">
-                <p>Copyright &copy; www.myOnlineMeal.com <br/>All rights reserved!</p>
+                <p>Copyright &copy; https://kgsy.netlify.app <br/>All rights reserved!</p>
             </div>
         </div>
     )
