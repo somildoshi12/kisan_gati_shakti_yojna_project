@@ -28,8 +28,11 @@ export default function About() {
                         </ul>
                     </div>
 
-                    <img src={flag} alt="" />
+                    <img src={flag} alt="flag" />
                 </div>
+            </div>
+            <div className="footer">
+                <p>Copyright &copy; www.myOnlineMeal.com <br/>All rights reserved!</p>
             </div>
         </div>
     )
