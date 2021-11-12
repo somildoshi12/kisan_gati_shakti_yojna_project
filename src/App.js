@@ -6,6 +6,8 @@ import Harvesting from './Components/Harvesting';
 import React, { useState } from 'react'
 import './Components/Form.css';
 import Zoom from 'react-reveal/Zoom';
+import About from './Components/About';
+
 
 import {
   BrowserRouter as Router,
@@ -13,7 +15,6 @@ import {
   Link,
   Route,
 } from "react-router-dom";
-import About from './Components/About';
 
 function App() {
 
@@ -504,19 +505,20 @@ function App() {
                   </div>
                 </Zoom>
               </div>
+              <About />
             </Route>
 
             <Route exact path="/home">
               <Homepage />
             </Route>
 
-            <Route exact path="/">
-
+            <Route exact path="/about">
+              <About />
             </Route>
 
           </Switch>
         </div>
-        <About />
+        {/* <About /> */}
       </Router>
     </div>
   );

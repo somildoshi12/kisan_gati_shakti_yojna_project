@@ -3,6 +3,7 @@ import './Harvesting.css';
 import img from './Images/andhra.jpg';
 
 export default function Harvesting(props) {
+
     return (
         <div>
             <div className="harvestingPage">
@@ -10,6 +11,11 @@ export default function Harvesting(props) {
                     <h1>Harvesting plan for {props.heading}</h1>
                 </div>
                 <br />
+
+                {/* <div className="name">
+                    Hello, {props.name}
+                </div> */}
+
                 <div className="bg">
 
                     {/* <h3>{props.heading2}</h3> */}

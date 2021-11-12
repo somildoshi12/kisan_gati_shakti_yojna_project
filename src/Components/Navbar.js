@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 export default function Navbar() {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid">
                     {/* <Link class="navbar-brand mx-4" to="/">
                         <img src={img} alt="" width="30" height="24"/>
@@ -20,7 +20,7 @@ export default function Navbar() {
                                 <Link className="nav-link mx-2" aria-current="page" to="/home">Home</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link mx-2" to="/form">Form</Link>
+                                <Link className="nav-link mx-2" to="/about">About us</Link>
                             </li>
                         </ul>
                         <form className="d-flex">
