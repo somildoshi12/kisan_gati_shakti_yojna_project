@@ -25,7 +25,7 @@ export default function Navbar() {
                         </ul>
                         <form className="d-flex">
 
-                            <button class="btn btn-outline-success" type="submit">Feedback</button>
+                            <button class="btn btn-outline-success" type="submit" formaction="https://docs.google.com/forms/d/e/1FAIpQLScqSely23wBH6O0maImZiUPY7Q8oki024LK5c261Sjkq7mdcg/viewform" formTarget="/blank">Feedback</button>
                         </form>
                     </div>
                 </div>

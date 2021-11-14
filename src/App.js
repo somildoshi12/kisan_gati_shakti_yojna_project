@@ -447,6 +447,7 @@ function App() {
                 heading3={title3}
                 method={method}
                 pic={pic}
+                name={name}
                 climate={climate} />
             </Route>
 
@@ -456,7 +457,7 @@ function App() {
 
               <div className="formPage">
                 <Zoom top cascade>
-                  <div className="form">
+                  <div className="form" id="temp">
                     <h1>Enter your details</h1>
                     <br />
                     <div className="form-floating mb-3">

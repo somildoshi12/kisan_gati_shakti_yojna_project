@@ -12,9 +12,9 @@ export default function Harvesting(props) {
                 </div>
                 <br />
 
-                {/* <div className="name">
+                <div className="name">
                     Hello, {props.name}
-                </div> */}
+                </div>
 
                 <div className="bg">
 
