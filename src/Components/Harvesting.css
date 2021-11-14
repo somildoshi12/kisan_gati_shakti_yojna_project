@@ -1,5 +1,5 @@
 .harvestingPage{
-    background-color: #c27979;
+    background-color: #c3bdbd;
     /* background: url(./Images/bgBox3.jpg) no-repeat center center/cover; */
     height: fit-content;
     /* padding-top: 40px; */
@@ -11,7 +11,7 @@
 }
 
 .harvestingTitle{
-    background-color: rgb(45 21 21);
+    background-color: rgb(33 37 41);
     padding-top: 20px;
     width: 100vw;
     height: 15vh;

@@ -7,8 +7,10 @@ export default function Homepage() {
     return (
         <div className="homePage" >
             <div className="home" >
+                
                 <Fade left>
-                    <p className="title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati placeat quod consequuntur quaerat consequatur autem magni, temporibus sit, aut numquam deleniti voluptas aliquid quisquam, nostrum voluptatibus tenetur. Blanditiis dolorum earum numquam cum itaque officia?</p>
+                    <p className="title"><b>"Improving Agriculture, Improving Lives"</b></p>
+                    <p>Helping the farmers out there by providing information regarding harvesting techniques and tips in their respective states.</p>
                 </Fade>
                 {/* <Fade right>
                     <button type="button" className="btn btn-dark" ><Link className="btn-home btn-dark" to="/form">join us</Link></button>
