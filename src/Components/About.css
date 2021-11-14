@@ -27,13 +27,10 @@ ul{
 }
 
 .mid{
-    /* position: relative;
-    left: 100px; */
     text-align: center;
 }
 .left{
     position: relative;
-    /* left: 100px */
     top: -66px;
     left: 14vw;
 }

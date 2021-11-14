@@ -21,24 +21,6 @@
     color: white;
 }
 
-/* .form-control{
-    background-color: black;
-    color: white;
-} */
-
-/* input:not(:placeholder-shown) {
-    background-color:  #ff1717!important;
-    color: white;
- } */
- 
- 
- /* input:placeholder {
-    background-color:  #e97373!important;
- } */
- /* input:placeholder-shown {
-    background-color:  #e97373!important;
- } */
-
  #floatingInput{
      color: white;
      background-color: rgb(122 29 29);
